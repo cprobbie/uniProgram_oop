@@ -1,0 +1,11 @@
+C:\Users\cprob\Edx.org\UProgram\UProgram\bin\Debug\netcoreapp2.2\UProgram.deps.json
+C:\Users\cprob\Edx.org\UProgram\UProgram\bin\Debug\netcoreapp2.2\UProgram.runtimeconfig.json
+C:\Users\cprob\Edx.org\UProgram\UProgram\bin\Debug\netcoreapp2.2\UProgram.runtimeconfig.dev.json
+C:\Users\cprob\Edx.org\UProgram\UProgram\bin\Debug\netcoreapp2.2\UProgram.dll
+C:\Users\cprob\Edx.org\UProgram\UProgram\bin\Debug\netcoreapp2.2\UProgram.pdb
+C:\Users\cprob\Edx.org\UProgram\UProgram\obj\Debug\netcoreapp2.2\UProgram.csprojAssemblyReference.cache
+C:\Users\cprob\Edx.org\UProgram\UProgram\obj\Debug\netcoreapp2.2\UProgram.csproj.CoreCompileInputs.cache
+C:\Users\cprob\Edx.org\UProgram\UProgram\obj\Debug\netcoreapp2.2\UProgram.AssemblyInfoInputs.cache
+C:\Users\cprob\Edx.org\UProgram\UProgram\obj\Debug\netcoreapp2.2\UProgram.AssemblyInfo.cs
+C:\Users\cprob\Edx.org\UProgram\UProgram\obj\Debug\netcoreapp2.2\UProgram.dll
+C:\Users\cprob\Edx.org\UProgram\UProgram\obj\Debug\netcoreapp2.2\UProgram.pdb
